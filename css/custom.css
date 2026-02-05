@@ -1,6 +1,15 @@
 /*******
 COLOR CHEAT SHEET
-
+https://coolors.co/181925-202232-2b2d42-abb6c4-d5dce3-edf2f4-be0e23-eb1e3d-f0052c
+black-grey181925
+medium dark grey-202232
+navy blue gray-2b2d42
+arctic gray-abb6c4
+light gray-d5dce3
+gray white-edf2f4
+dark red-be0e23
+pink red-eb1e3d
+fruit punch red-f0052c
 
 
 
@@ -11,3 +20,10 @@ COLOR CHEAT SHEET
 /************************/
 /******** FONTS *********/
 /************************/
+body, p, div {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Protest Guerrilla", sans-serif;
+}
