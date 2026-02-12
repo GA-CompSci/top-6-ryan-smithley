@@ -27,3 +27,43 @@ body, p, div {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Protest Guerrilla", sans-serif;
 }
+/* *****Hero************* */
+/**********/
+/**********/
+header.masthead {
+    background: url("https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg");
+    background-size: cover;
+    background-position:center;
+}
+
+.masthead h1 {
+    color: #edf2f4;
+    text-shadow: 2px 2px 5px #181925;
+    font-size: 4em !important;
+}
+
+.masthead p {
+     color: #edf2f4;
+     text-shadow: 1px 1px 5px #181925;
+     font-weight: 900;
+     font-size: 2em !important;
+}
+
+.btn-primary{
+    background-color: #202232!important;
+    color: #edf2f4;
+    font-size: 1em;
+    font-family: "Montserrat";
+}
+
+.btn-primary:hover {
+    background-color: #abb6c4 !important;
+    color: #202232;
+}
+
+#about {
+    background-color: #202232 !important;
+}
+
+
+https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
