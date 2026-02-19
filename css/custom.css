@@ -67,6 +67,7 @@ header.masthead {
 
 #why-explained {
     color: #d5dce3 !important;
+    font-size: 300px important;
 }
 
 .project-category {
@@ -81,7 +82,7 @@ header.masthead {
 }
 
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption, #portfolio .container-xxl .portfolio-box .portfolio-box-caption {
-    background: #be0e23bf;
+    background: #be0e23c3;
 }
 
 /* *****colors************* */
@@ -89,7 +90,7 @@ header.masthead {
 /**********/
 
 .text-primary {
-    color:#be0e23bf !important;
+    color:#be0e23e4 !important;
 }
 
 .divider{
@@ -112,4 +113,30 @@ header.masthead {
 .bg-dark {
     background-color: 202232;
 }
+
+.nav-item {
+    font-family: "Protest Guerrilla" !important;
+    text-align: right !important;
+    color:#f0052c !important;
+}
+
+.nav-link {
+    color: #f0052c !important;
+   font-weight: 900 !important;
+}
+
+.nav-link:hover, .nav-link:focus {
+
+    color: #be0e23 !important;
+}
+
+/*********footer*******/
+
+.copyright {
+    font-family: "Montserrat" !important;
+    text-align: center;
+    color: #2b2d42;
+    font-weight: 300 !important;
+}
+.mentions
 https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
