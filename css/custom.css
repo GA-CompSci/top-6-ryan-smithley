@@ -139,7 +139,7 @@ header.masthead {
    font-size: 20px !important;
 }
 
-.nav-link:hover, .nav-link:focus{
+.nav-link:hover, .nav-link:focus, .nav-link.active{
 
     color: #be0e23 !important;
 }
@@ -182,5 +182,9 @@ font-size: 22px !important;
 
 .navbar-brand:hover, .navbar-brand:focus, .navbar-brand:active{
     color: #f0052c !important; 
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active {
+color: #be0e23 !important;
 }
 https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
