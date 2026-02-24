@@ -85,6 +85,10 @@ header.masthead {
     background: #be0e23c3;
 }
 
+#criteria {
+    color: #abb6c4;
+    font-size: 17px;
+}
 /* *****colors************* */
 /**********/
 /**********/
@@ -138,5 +142,20 @@ header.masthead {
     color: #2b2d42;
     font-weight: 300 !important;
 }
-.mentions
+.mentions {
+    font-size: 18px;
+    font-weight: 550;
+}
+
+.mt-0 {
+    font-size: 40px;
+}
+
+#mention-name{
+    color: #181925;
+}
+
+.goalie-name {
+    font-size:66px;
+}
 https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
