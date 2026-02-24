@@ -114,9 +114,18 @@ header.masthead {
     font-size: 17px;
 }
 
-.bg-dark {
-    background-color: 202232;
+.bg-dark, .bg-primary {
+    background-color: #202232 !important;
 }
+
+/**** CAROUSEL COLORS ***/
+.carousel-control-prev-icon, .carousel-control-next-icon {
+	background-color: black;
+    border-radius: 5px; 
+    padding: 2px;
+}
+
+/****** NAV COLORS ******/
 
 .nav-item {
     font-family: "Protest Guerrilla" !important;
@@ -157,5 +166,11 @@ header.masthead {
 
 .goalie-name {
     font-size:66px;
+}
+
+.explanation {
+    font-size: 17px;
+    font-weight: 570;
+    text-shadow:1px 1px 3px #edf2f4;
 }
 https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
