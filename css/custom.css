@@ -56,7 +56,7 @@ header.masthead {
     font-family: "Montserrat";
 }
 
-.btn-primary:hover, .btn-primary:focus {
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active{
     background-color: #f0052c !important;
     color: #edf2f4;
 }
@@ -108,7 +108,7 @@ header.masthead {
     font-size: 17px;
 }
 
-.btn:hover, .btn:focus {
+.btn:hover, .btn:focus, .btn:active{
     background-color: #f0052cbb;
     color: #edf2f4c8;
     font-size: 17px;
@@ -136,9 +136,10 @@ header.masthead {
 .nav-link {
     color: #f0052c !important;
    font-weight: 900 !important;
+   font-size: 20px !important;
 }
 
-.nav-link:hover, .nav-link:focus {
+.nav-link:hover, .nav-link:focus{
 
     color: #be0e23 !important;
 }
@@ -169,8 +170,17 @@ header.masthead {
 }
 
 .explanation {
-    font-size: 17px;
+    font-size: 25px;
     font-weight: 570;
     text-shadow:1px 1px 3px #edf2f4;
+}
+
+#mainNav .navbar-brand {
+color: #edf2f4;
+font-size: 22px !important;
+}
+
+.navbar-brand:hover, .navbar-brand:focus, .navbar-brand:active{
+    color: #f0052c !important; 
 }
 https://hockeywilderness.com/uploads/monthly_2025_11/USATSI_27631242_168390100_lowres.jpg.baa23bd78662b0010ad77b440cb77c8d.jpg
