@@ -89,6 +89,25 @@ header.masthead {
     color: #abb6c4;
     font-size: 17px;
 }
+
+.slbCaption {
+display: inline-block;
+max-width: 100%;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+word-wrap: normal;
+font-size: 2em;
+position: absolute;
+left: 0;
+right: 0;
+bottom: 0;
+padding: .71429em 0;
+color: #edf2f4;
+color: #edf2f4(255,255,255,0.7);
+text-align: center;
+font-family: "Montserrat";
+}
 /* *****colors************* */
 /**********/
 /**********/
